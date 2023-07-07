@@ -1,17 +1,15 @@
 name: otp_screen
 description: A new Flutter package which helps developer in creating Otp screen with few lines of code.
 version: 0.0.2
-author: Lokesh Chennamchetty <chennamchettyl@gmail.com>
 homepage: https://github.com/lokesh-sudhakar/Flutter-OtpScreen.git
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
-  flutter: ">=1.17.0 <2.0.0"
+  sdk: ">=3.0.5 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  fluttertoast: ^6.0.1
+  fluttertoast: ^8.2.2
 
 dev_dependencies:
   flutter_test:
